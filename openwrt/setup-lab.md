@@ -1,8 +1,3 @@
-Entendido, Leo. Voltamos ao ponto de partida no NanoStation, o que é totalmente gerenciável. Não se preocupe, vamos refazer as configurações essenciais de forma sequencial e clara.
-
-Seu NanoStation Loco M2 está agora com o OpenWrt padrão de fábrica, acessível via cabo em `192.168.1.1`, com Wi-Fi desativado.
-
----
 **`[2025-09-28 16:32:00]`**
 
 ### Roteiro Simplificado: Configuração do Gateway do Laboratório (Re-Build)
